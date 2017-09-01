@@ -1,6 +1,7 @@
 # Vagas
 
-Repositório para a divulgação de vagas do devRJ via _issues_ do Github.
+Repositório para a divulgação de vagas do **developersRJ** via _issues_ do Github.
+> Link-convite para o grupo (Telegram): [bit.ly/developersRJ](http://bit.ly/developersRJ)
 
 Vagas disponíveis em https://github.com/developersRJ/vagas/issues
 
