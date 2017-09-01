@@ -26,4 +26,4 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ## Licença
 
-[MIT](/LICENSE) &copy; DevelopersRJ
+[MIT](LICENSE.md) &copy; DevelopersRJ
