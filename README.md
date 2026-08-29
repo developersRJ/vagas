@@ -5,6 +5,8 @@ Repositório para a divulgação de vagas do **developersRJ** via _issues_ do Gi
 
 Vagas disponíveis em https://github.com/developersRJ/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/developersRJ/vagas). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ### :office: Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome do bairro ou cidade (caso a vaga seja no interior do estado) entre colchetes seguido do nome da vaga e nome da empresa.
